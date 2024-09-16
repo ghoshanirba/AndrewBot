@@ -1,0 +1,100 @@
+import React, { useState } from "react";
+import "@chatscope/chat-ui-kit-styles/dist/default/styles.min.css";
+import "./AndrewBotCustom.css";
+import {
+  MainContainer,
+  ChatContainer,
+  MessageList,
+  Message,
+  MessageInput,
+  TypingIndicator,
+  ConversationHeader,
+  Avatar,
+} from "@chatscope/chat-ui-kit-react";
+
+// Define the type for message
+interface chatMessage {
+  message: string;
+  sentTime: string;
+  sender: string;
+  direction: "incoming" | "outgoing"; // Use specific string literals
+  position: "single" | "first" | "normal" | "last"; // Define the possible values for position
+}
+
+export default function AndrewBot() {
+  const [isTyping, setIsTyping] = useState(false);
+  const [initialMessageSent, setInitialMessageSent] = useState(false); // Track if initial message has been sent
+  const [messages, setMessages] = useState<chatMessage[]>([]); // Initialize messages as an empty array
+
+  const handleSend = (userMessage: string) => {
+    if (!initialMessageSent && userMessage.toLowerCase() !== "hi") {
+      // Only accept "Hi" or "hi" as the first message
+      alert('Please start by typing "Hi"');
+      return;
+    }
+
+    const newUserMessage: chatMessage = {
+      message: userMessage,
+      sentTime: "just now",
+      sender: "user",
+      direction: "outgoing",
+      position: "single",
+    };
+
+    let newBotMessage: chatMessage | null = null;
+
+    if (!initialMessageSent) {
+      newBotMessage = {
+        message:
+          "Hello my friend, I am Andrew. Please choose your action from the below list.",
+        sentTime: "just now",
+        sender: "Andrew",
+        direction: "incoming",
+        position: "single",
+      };
+      setInitialMessageSent(true);
+    }
+
+    setMessages((prevMessages) =>
+      newBotMessage
+        ? [...prevMessages, newUserMessage, newBotMessage]
+        : [...prevMessages, newUserMessage]
+    );
+  };
+
+  return (
+    <div style={{ position: "relative", height: "500px", width: "700px" }}>
+      <MainContainer>
+        <ChatContainer>
+          <ConversationHeader>
+            <Avatar name="Andrew" src="src\assets\AndrewAvatar.svg" />
+            <ConversationHeader.Content userName="Andrew" />
+          </ConversationHeader>
+          <MessageList
+            scrollBehavior="smooth"
+            typingIndicator={
+              isTyping ? <TypingIndicator content="Andrew is typing" /> : null
+            }
+          >
+            {messages.map((msg, index) => (
+              <Message
+                key={index}
+                model={{
+                  message: msg.message,
+                  sentTime: msg.sentTime,
+                  sender: msg.sender,
+                  direction: msg.direction,
+                  position: msg.position,
+                }}
+              />
+            ))}
+          </MessageList>
+          <MessageInput
+            placeholder={initialMessageSent ? "Type a message..." : "Type Hi"}
+            onSend={handleSend}
+          />
+        </ChatContainer>
+      </MainContainer>
+    </div>
+  );
+}
