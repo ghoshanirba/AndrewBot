@@ -1,0 +1,76 @@
+.small-dropdown {
+    width: 66px;
+    height: 20px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.spinner-border {
+    --bs-spinner-width: 10rem;
+    --bs-spinner-height: 10rem;
+    --bs-spinner-vertical-align: -0.125em;
+    --bs-spinner-border-width: 1.2rem;
+    --bs-spinner-animation-speed: 0.75s;
+    --bs-spinner-animation-name: spinner-border;
+    border: var(--bs-spinner-border-width) solid currentcolor;
+    border-right-color: transparent;
+}
+
+
+.table-cell {
+    text-align: center; /* Horizontally center the button in the table cell */
+    vertical-align: middle; /* Vertically center the button in the table cell */
+}
+
+.table-cell-no-hover {
+  opacity: 0.5; /* Reduce the opacity */
+  pointer-events: none;   /* Disable interactions when hovered over */
+}
+
+/* Make the button visible on hover */
+.table-cell:hover .btn-icon-inline {
+  opacity: 1; /* Make the button visible */
+  pointer-events: auto;   /* Enable interactions when visible */
+}
+
+.btn-icon-inline {
+    background-color: transparent;
+    border: none;
+    /* opacity: 0; Make the button invisible */
+    transition: opacity 0.2s ease-in-out;   /* Smooth transition */
+    /* pointer-events: none;   Disable interactions when invisible */
+}
+
+/* Keep the trash icon visible all the time */
+/* .btn-icon-inline .fa-trash-can {
+    opacity: 0; /* Ensure the icon stays visible */
+    /* pointer-events: none; Prevent icon from capturing pointer events */
+/* } */
+
+.table-data-font {
+    font-family :Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: small;
+  } */
+  
+  .table-header-font {
+    font-family :Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: small;
+  }
+
+  .card {
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  }
+
+  .card-title {
+    margin-bottom: 1rem;
+    text-align: end;
+  }
+
+  .card-text {
+    margin-bottom: 0.75rem;
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    text-align: end;
+  }
