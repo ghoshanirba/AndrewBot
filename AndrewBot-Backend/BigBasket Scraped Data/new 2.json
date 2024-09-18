@@ -1,0 +1,98 @@
+{
+	"tabs" : {
+		"product_info": {
+             "products":[
+               {
+                "id": "40314777",
+				"name": "Cold pressed Olive Oil Blend",
+				"weight" : "1 L",
+				"magnitude" : 1000,
+				"magnitude_unit" : "ml",
+                "pricing": {
+							"mrp": "300",
+							"selling_price": "239",
+							"discount": "20% OFF"
+						   },
+                "brand": {
+							"name": "bb Royal"
+						 },
+                "category": {
+							"tlc_name": "Foodgrains, Oil & Masala",
+							"mlc_name": "Edible Oils & Ghee",
+							"llc_name": "Blended Cooking Oils"
+					    },
+				"keep_selected" : "Y",
+                "children": [
+                                {
+                                  "id": "40314778",
+                				  "name": "Cold pressed Olive Oil Blend",
+                				  "weight" : "500 ml",
+                				  "magnitude" : 500,
+                				  "magnitude_unit" : "ml",
+                                  "pricing": {
+                  							"mrp": "150",
+                  							"sp": "120",
+                  							"discount": "20% OFF"
+                  						},
+                  				  "brand": {
+                  							"name": "bb Royal"
+                  						},
+                                  "category": {
+                  							"tlc_name": "Foodgrains, Oil & Masala",
+                  							"mlc_name": "Edible Oils & Ghee",
+                  							"llc_name": "Blended Cooking Oils"
+                  					    },
+                                  "keep_selected" : "N"
+                                },
+                                {
+                                  "id": "40314779",
+                				  "name": "Cold pressed Olive Oil Blend",
+                				  "weight" : "500 ml",
+                				  "magnitude" : 200,
+                				  "magnitude_unit" : "ml",
+                                  "pricing": {
+                  							"mrp": "80",
+                  							"sp": "70",
+                  							"discount": "20% OFF"
+                  						},
+                  				  "brand": {
+                  							"name": "bb Royal"
+                  						},
+                                  "category": {
+                  							"tlc_name": "Foodgrains, Oil & Masala",
+                  							"mlc_name": "Edible Oils & Ghee",
+                  							"llc_name": "Blended Cooking Oils"
+                  					    },
+                                  "keep_selected" : "N"
+                                },
+                                {
+                                  "id": "40314780",
+                				  "name": "Cold pressed Olive Oil Blend",
+                				  "weight" : "100 ml",
+                				  "magnitude" : 100,
+                				  "magnitude_unit" : "ml",
+                                  "pricing": {
+                  							"mrp": "50",
+                  							"sp": "40",
+                  							"discount": "20% OFF"
+                  						},
+                  				  "brand": {
+                  							"name": "bb Royal"
+                  						},
+                                  "category": {
+                  							"tlc_name": "Foodgrains, Oil & Masala",
+                  							"mlc_name": "Edible Oils & Ghee",
+                  							"llc_name": "Blended Cooking Oils"
+                  					    },
+                                  "keep_selected" : "N"
+                                }
+                  ],
+                "total_count_of_one_product_with_children" : 4 
+               },
+               {},
+               {}
+             ]         
+        },
+		"total_count_of_all_products" : 10
+    }
+}

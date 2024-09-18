@@ -1,0 +1,51 @@
+ProductID~MainCategory~SubCategory1~SubCategory2~ProductName~Brand~Weight~WeightUnits~StockInHand~MRP~DiscountPercentage~RowUpdateProcessID~RowUpdateTimestamp
+100001~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Atta with Multigrains - High Fibre~Aashirvaad~5~Kg~20~250~2~ghoshanirban~2024-08-01 15:25:29
+100002~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Atta with Multigrains - High Fibre~Aashirvaad~1~Kg~20~50~1~ghoshanirban~2024-08-01 15:48:56
+100003~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Atta with Multigrains - High Fibre~Aashirvaad~2~Kg~10~100~2~ghoshanirban~2024-08-01 15:48:56
+100004~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Atta/Godihittu - Whole Wheat~Aashirvaad~1~Kg~20~40~1~ghoshanirban~2024-08-01 15:58:33
+100005~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Atta/Godihittu - Whole Wheat~Aashirvaad~2~Kg~10~80~2~ghoshanirban~2024-08-01 15:58:33
+100006~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Atta/Godihittu - Whole Wheat~Aashirvaad~5~Kg~10~200~2~ghoshanirban~2024-08-01 15:58:33
+100007~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Organic Whole Wheat Atta~Aashirvaad~1~Kg~10~100~5~ghoshanirban~2024-08-01 15:58:33
+100008~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Organic Whole Wheat Atta~Aashirvaad~2~Kg~20~200~5~ghoshanirban~2024-08-01 15:58:33
+100009~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Chakki Fresh Atta~Fortune~1~Kg~20~40~1~ghoshanirban~2024-08-01 15:58:33
+100010~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Chakki Fresh Atta~Fortune~2~Kg~20~80~2~ghoshanirban~2024-08-01 15:58:33
+100011~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Chakki Fresh Atta~Fortune~5~Kg~20~200~4~ghoshanirban~2024-08-01 15:58:33
+100012~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Chakki Fresh Atta~Fortune~10~Kg~20~400~5~ghoshanirban~2024-08-01 15:58:33
+100013~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Active Sugar Control Atta~Sugarfit~1~Kg~20~50~1~ghoshanirban~2024-08-01 15:58:33
+100014~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Active Sugar Control Atta~Sugarfit~2~Kg~10~100~2~ghoshanirban~2024-08-01 15:58:33
+100015~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Active Sugar Control Atta~Sugarfit~5~Kg~10~250~4~ghoshanirban~2024-08-01 15:58:33
+100016~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Multi Millet Atta - Made From Ragi, Jowar & Bajra, Rich In Protien, Fibre, Iron, Healthy~Manna~1~Kg~10~100~2~ghoshanirban~2024-08-01 16:02:33
+100017~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Multi Millet Atta - Made From Ragi, Jowar & Bajra, Rich In Protien, Fibre, Iron, Healthy~Manna~2~Kg~20~200~2~ghoshanirban~2024-08-01 16:02:33
+100018~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Atta Whole Wheat~Multi Millet Atta - Made From Ragi, Jowar & Bajra, Rich In Protien, Fibre, Iron, Healthy~Manna~5~Kg~10~500~5~ghoshanirban~2024-08-01 16:02:33
+100019~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Rice Flour~bb Royal~100~gms~10~50~1~ghoshanirban~2024-08-01 16:10:23
+100020~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Rice Flour~bb Royal~200~gms~20~100~2~ghoshanirban~2024-08-01 16:10:23
+100021~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Rice Flour~bb Royal~500~gms~10~250~5~ghoshanirban~2024-08-01 16:10:23
+100022~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Rice Flour~bb Royal~1~Kg~10~500~10~ghoshanirban~2024-08-01 16:10:23
+100023~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Chana Sattu Refreshing Drink Powder~Manna~200~gms~20~50~2~ghoshanirban~2024-08-01 16:10:23
+100024~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Chana Sattu Refreshing Drink Powder~Manna~500~gms~20~100~3~ghoshanirban~2024-08-01 16:10:23
+100025~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Chana Sattu Refreshing Drink Powder~Manna~1~Kg~20~200~5~ghoshanirban~2024-08-01 16:10:23
+100026~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Organic - Jowar Flour~bb Royal~100~gms~10~100~1~ghoshanirban~2024-08-01 16:16:13
+100027~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Organic - Jowar Flour~bb Royal~250~gms~20~200~2~ghoshanirban~2024-08-01 16:16:13
+100028~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Organic - Jowar Flour~bb Royal~500~gms~10~500~5~ghoshanirban~2024-08-01 16:16:13
+100029~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Organic Ragi Flour~bb Royal~100~gms~10~100~1~ghoshanirban~2024-08-01 16:16:13
+100030~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Organic Ragi Flour~bb Royal~200~gms~20~200~3~ghoshanirban~2024-08-01 16:16:13
+100031~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Organic Ragi Flour~bb Royal~500~gms~30~500~5~ghoshanirban~2024-08-01 16:16:13
+100032~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Corn Starch Powder Cornflour~Weikfield~100~gms~10~150~2~ghoshanirban~2024-08-01 16:16:13
+100033~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Corn Flour/ Starch~bb Royal~100~gms~15~180~3~ghoshanirban~2024-08-01 16:16:13
+100034~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Fine Besan/Kadale Hittu - 100% Chana Dal~Tata Sampann~100~gms~20~20~1~ghoshanirban~2024-08-01 16:37:03
+100035~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Fine Besan/Kadale Hittu - 100% Chana Dal~Tata Sampann~200~gms~20~40~2~ghoshanirban~2024-08-01 16:37:03
+100036~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Fine Besan/Kadale Hittu - 100% Chana Dal~Tata Sampann~500~gms~20~80~3~ghoshanirban~2024-08-01 16:37:03
+100037~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Double Roasted Sooji Rava - Less Moisture, More Quantity, Made From MP Wheat~Aashirvaad~200~gms~20~50~2~ghoshanirban~2024-08-01 16:37:03
+100038~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Double Roasted Sooji Rava - Less Moisture, More Quantity, Made From MP Wheat~Aashirvaad~500~gms~20~100~2~ghoshanirban~2024-08-01 16:37:03
+100039~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Besan/Kadale Hittu~bb SUPER SAVER~100~gms~20~20~1~ghoshanirban~2024-08-01 16:37:03
+100040~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Besan/Kadale Hittu~bb SUPER SAVER~200~gms~20~40~3~ghoshanirban~2024-08-01 16:37:03
+100041~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Besan/Kadale Hittu~bb SUPER SAVER~500~gms~20~100~5~ghoshanirban~2024-08-01 16:37:03
+100042~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Roasted Sooji - Pesticide Free~Safe Harvest~100~gms~20~100~2~ghoshanirban~2024-08-01 16:37:03
+100043~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Roasted Sooji - Pesticide Free~Safe Harvest~200~gms~15~200~5~ghoshanirban~2024-08-01 16:37:03
+100044~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Besan/Kadale Hittu~Fortune~100~gms~15~15~1~ghoshanirban~2024-08-01 16:37:03
+100045~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Besan/Kadale Hittu~Fortune~200~gms~15~30~2~ghoshanirban~2024-08-01 16:37:03
+100046~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Besan/Kadale Hittu~Fortune~500~gms~20~70~2~ghoshanirban~2024-08-01 16:37:03
+100047~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Maida/Refined Flour~Fortune~200~gms~20~10~0~ghoshanirban~2024-08-01 16:37:03
+100048~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Maida/Refined Flour~Fortune~500~gms~20~20~3~ghoshanirban~2024-08-01 16:37:03
+100049~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Maida/Refined Flour~Fortune~1~Kg~20~40~5~ghoshanirban~2024-08-01 16:37:03
+100050~Foodgrains, Oil & Masala~Atta, Flour, Sooji~Rice & Other Flours~Maida/Refined Flour~Fortune~5~Kg~20~200~6~ghoshanirban~2024-08-01 16:37:03
