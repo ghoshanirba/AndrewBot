@@ -9,7 +9,7 @@ AndrewBot-Backend/GenerateProductEmbeddings_BKP
 AndrewBot-Backend/OrderManagementAPI_BKP
 AndrewBot-Backend/WebScraping_BKP
 AndrewBot-Backend/Misc_BKP
-AndrewBot-Backend/AndrewBotDB
+AndrewBot-Backend/AndrewBotDB.db
 AndrewBot-Frontend/src/Components/AndreBotUI/AndrewBot bkp010824.tsx
 AndrewBot-Frontend/src/Components/CreateViewOrderUI/CreateOrderPage BKP010924.tsx
 AndrewBot-Frontend/src/Components/CreateViewOrderUI/CreateOrderPage BKP270824.tsx
